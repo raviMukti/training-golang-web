@@ -64,7 +64,7 @@ func TestUploadFileServer(t *testing.T) {
 
 }
 
-//go:embed resources/eos.png
+//go:embed resources/logo.png
 var uploadFileTest []byte
 
 func TestUploadFile(t *testing.T) {
